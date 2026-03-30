@@ -8,4 +8,5 @@ Projeto simples para aprendizado de Git e GitHub.
 - Commits
 - Branches
 - Pull Requests
--Aprendi Git básico
+- Aprendi Git básico
+- Teste de conflito
